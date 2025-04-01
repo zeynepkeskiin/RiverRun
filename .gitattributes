@@ -1,0 +1,3 @@
+*.cs linguist-detectable=true
+*.vb linguist-detectable=false
+*.java linguist-detectable=false
